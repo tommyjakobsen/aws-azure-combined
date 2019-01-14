@@ -1,6 +1,7 @@
-# openshift-azure
+# aws-azure-combined
 
-This is a project that will use secrets from Azure Analytics bindings made against Azure Cloud
+
+This is a project that will use secrets from Azure Analytics bindings made against Azure Cloud and secrets for connecting to AWS translate service provisioned with Open Service Broker
 
 
 
